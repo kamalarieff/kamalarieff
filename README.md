@@ -5,7 +5,7 @@
 
 - 👔 I’m currently working at **Mudah.my**
 
-- 🌱 I’m currently learning **Rust, Kubernetes**
+- 🌱 I’m currently learning **Elixir, Kubernetes**
 
 - 💬 Ask me about **React, Node.js, Linux ricing**
 
