@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamalarieff&label=Profile%20views&color=0e75b6&style=flat" alt="kamalarieff" /> </p>
 
-- 👔 I’m currently working at **Instahome.com**
+- 👔 I’m currently working at **Xendit**
 
 - 🌱 I’m currently learning **Elixir, Kubernetes**
 
