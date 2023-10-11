@@ -5,7 +5,7 @@
 
 - 👔 I’m currently working at **Xendit**
 
-- 🌱 I’m currently learning **Elixir, Kubernetes**
+- 🌱 I’m currently learning **Elixir, Kubernetes, Ruby on Rails**
 
 - 💬 Ask me about **React, Node.js, Linux ricing**
 
